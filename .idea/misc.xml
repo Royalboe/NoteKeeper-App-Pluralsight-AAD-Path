@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Mrs Salami Modupe PC/Downloads/NoteKeeperApp/app/src/main/res/drawable/ic_add.xml" value="0.240625" />
+        <entry key="..\:/Users/Mrs Salami Modupe PC/Downloads/NoteKeeperApp/app/src/main/res/drawable/ic_assignment_24.xml" value="0.240625" />
+        <entry key="..\:/Users/Mrs Salami Modupe PC/Downloads/NoteKeeperApp/app/src/main/res/drawable/ic_help_black_24dp.xml" value="0.240625" />
+        <entry key="..\:/Users/Mrs Salami Modupe PC/Downloads/NoteKeeperApp/app/src/main/res/drawable/ic_menu_share.xml" value="0.17962962962962964" />
+        <entry key="..\:/Users/Mrs Salami Modupe PC/Downloads/NoteKeeperApp/app/src/main/res/drawable/ic_visibility_black_24dp.xml" value="0.240625" />
+        <entry key="..\:/Users/Mrs Salami Modupe PC/Downloads/NoteKeeperApp/app/src/main/res/drawable/orange_rectangle.xml" value="0.240625" />
+        <entry key="..\:/Users/Mrs Salami Modupe PC/Downloads/NoteKeeperApp/app/src/main/res/layout-land/content_main.xml" value="0.5" />
+        <entry key="..\:/Users/Mrs Salami Modupe PC/Downloads/NoteKeeperApp/app/src/main/res/layout/activity_items.xml" value="0.25" />
+        <entry key="..\:/Users/Mrs Salami Modupe PC/Downloads/NoteKeeperApp/app/src/main/res/layout/activity_main.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Mrs Salami Modupe PC/Downloads/NoteKeeperApp/app/src/main/res/layout/activity_note_list.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Mrs Salami Modupe PC/Downloads/NoteKeeperApp/app/src/main/res/layout/activity_note_quick_view.xml" value="0.25" />
+        <entry key="..\:/Users/Mrs Salami Modupe PC/Downloads/NoteKeeperApp/app/src/main/res/layout/app_bar_items.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Mrs Salami Modupe PC/Downloads/NoteKeeperApp/app/src/main/res/layout/color_selector.xml" value="0.33" />
+        <entry key="..\:/Users/Mrs Salami Modupe PC/Downloads/NoteKeeperApp/app/src/main/res/layout/content_items.xml" value="0.25" />
+        <entry key="..\:/Users/Mrs Salami Modupe PC/Downloads/NoteKeeperApp/app/src/main/res/layout/content_main.xml" value="0.25" />
+        <entry key="..\:/Users/Mrs Salami Modupe PC/Downloads/NoteKeeperApp/app/src/main/res/layout/content_note_list.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Mrs Salami Modupe PC/Downloads/NoteKeeperApp/app/src/main/res/layout/fragment_courses.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Mrs Salami Modupe PC/Downloads/NoteKeeperApp/app/src/main/res/layout/fragment_home.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/Mrs Salami Modupe PC/Downloads/NoteKeeperApp/app/src/main/res/layout/fragment_notes.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Mrs Salami Modupe PC/Downloads/NoteKeeperApp/app/src/main/res/layout/item_comment.xml" value="0.11548913043478261" />
+        <entry key="..\:/Users/Mrs Salami Modupe PC/Downloads/NoteKeeperApp/app/src/main/res/layout/item_course.xml" value="0.11548913043478261" />
+        <entry key="..\:/Users/Mrs Salami Modupe PC/Downloads/NoteKeeperApp/app/src/main/res/layout/item_course_list.xml" value="0.5" />
+        <entry key="..\:/Users/Mrs Salami Modupe PC/Downloads/NoteKeeperApp/app/src/main/res/layout/item_note.xml" value="0.10916919959473151" />
+        <entry key="..\:/Users/Mrs Salami Modupe PC/Downloads/NoteKeeperApp/app/src/main/res/layout/item_note_widget.xml" value="0.11548913043478261" />
+        <entry key="..\:/Users/Mrs Salami Modupe PC/Downloads/NoteKeeperApp/app/src/main/res/layout/list_view.xml" value="0.46680497925311204" />
+        <entry key="..\:/Users/Mrs Salami Modupe PC/Downloads/NoteKeeperApp/app/src/main/res/layout/nav_header_items.xml" value="0.33" />
+        <entry key="..\:/Users/Mrs Salami Modupe PC/Downloads/NoteKeeperApp/app/src/main/res/layout/note_keeper_app_widget.xml" value="0.25" />
+        <entry key="..\:/Users/Mrs Salami Modupe PC/Downloads/NoteKeeperApp/app/src/main/res/menu/activity_items_drawer.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Mrs Salami Modupe PC/Downloads/NoteKeeperApp/app/src/main/res/menu/activity_main_drawer.xml" value="0.33" />
+        <entry key="..\:/Users/Mrs Salami Modupe PC/Downloads/NoteKeeperApp/app/src/main/res/menu/content_items.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Mrs Salami Modupe PC/Downloads/NoteKeeperApp/app/src/main/res/menu/items.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Mrs Salami Modupe PC/Downloads/NoteKeeperApp/app/src/main/res/menu/items2.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Mrs Salami Modupe PC/Downloads/NoteKeeperApp/app/src/main/res/menu/menu_main.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Mrs Salami Modupe PC/Downloads/NoteKeeperApp/app/src/main/res/menu/menu_main2.xml" value="0.22447916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

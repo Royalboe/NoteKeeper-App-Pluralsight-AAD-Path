@@ -1,0 +1,39 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.notekeeperapp.MainActivity">
+
+    <item
+        android:id="@+id/action_next"
+        android:icon="@drawable/ic_next"
+        android:orderInCategory="100"
+        android:title="@string/menu_next"
+        app:showAsAction="ifRoom|withText" />
+
+    <item
+        android:id="@+id/action_remainder"
+        android:icon="@drawable/ic_notifications_white"
+        android:orderInCategory="100"
+        android:title="@string/remainder"
+        app:showAsAction="ifRoom|withText" />
+
+    <item
+        android:id="@+id/action_previous"
+        android:icon="@drawable/ic_previous"
+        android:orderInCategory="100"
+        android:title="@string/menu_previous"
+        app:showAsAction="ifRoom|withText" />
+
+    <item
+        android:id="@+id/action_get_together"
+        android:icon="@drawable/ic_people_white_24dp"
+        android:orderInCategory="100"
+        android:title="@string/get_together"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+</menu>

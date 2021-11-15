@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Note Keeper App</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="add_new">Add New Note</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="menu_next">Next</string>
+    <string name="menu_previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_note_list">NoteListActivity</string>
+    <string name="title_activity_items">ItemsActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_notes">Notes</string>
+    <string name="menu_courses">Courses</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="communicate">Communicate</string>
+    <string name="share">Share</string>
+    <string name="send">Send</string>
+    <string name="note_title">Note Title</string>
+    <string name="note_text">Note Text</string>
+    <string name="select_a_course">Select a course</string>
+    <string name="textview">TextView</string>
+    <string name="note_title_hint">Note title</string>
+    <string name="note_text_hint">Note text</string>
+    <string name="nav">Don\'t you think you\'ve shared enough</string>
+    <string name="nav_send_message">Send</string>
+    <string name="nav_how_many_message_format">Notes: %1$d | Courses: %2$d</string>
+    <string name="get_together">Get together</string>
+    <string name="reminder_body">Review %1$s</string>
+    <string name="remainder">remainder</string>
+    <string name="note">Note</string>
+    <string name="delete">Delete</string>
+    <string name="button">Button</string>
+    <string name="comments">Comments</string>
+    <string name="appwidget_text">NOTES</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="enabled">Enabled</string>
+    <string name="note_color">Note Color</string>
+
+    <string-array name="note_color_array">
+        <item>#E57373</item>
+        <item>#BA68C8</item>
+        <item>#64B5F6</item>
+        <item>#81C784</item>
+        <item>#FFF176</item>
+        <item>#FFB74D</item>
+        <item>#90A4AE</item>
+        <item>#E57373</item>
+        <item>#BA68C8</item>
+        <item>#64B5F6</item>
+        <item>#81C784</item>
+        <item>#FFF176</item>
+        <item>#FFB74D</item>
+        <item>#90A4AE</item>
+        <item>#E57373</item>
+        <item>#BA68C8</item>
+        <item>#64B5F6</item>
+        <item>#81C784</item>
+        <item>#FFF176</item>
+    </string-array>
+</resources>

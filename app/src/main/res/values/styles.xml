@@ -1,0 +1,39 @@
+<resources>
+
+    <style name="NoteTitle" parent="@style/TextAppearance.AppCompat.Small">
+        <item name="android:textColor">@color/pluralsight_orange</item>
+    </style>
+
+    <style name="BrandedText.CourseName">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="ModuleName" parent="BrandedText">
+        <item name="android:textAllCaps">true</item>
+    </style>
+
+    <style name="BrandedText" parent="@style/TextAppearance.AppCompat.Medium">
+        <item name="android:textColor">@color/pluralsight_orange</item>
+    </style>
+
+    <style name="AddFAB" parent="@style/Widget.MaterialComponents.FloatingActionButton">
+        <item name="android:layout_marginEnd">@dimen/fab_margin</item>
+        <item name="srcCompat">@drawable/ic_add</item>
+        <item name="android:layout_marginBottom">@dimen/fab_margin</item>
+        <item name="android:tint">@color/pluralsightPlum</item>
+    </style>
+
+    <style name="Widget.NoteKeeperApp.AppWidget.Container" parent="android:Widget">
+        <item name="android:id">@android:id/background</item>
+        <item name="android:background">?android:attr/colorBackground</item>
+    </style>
+
+    <style name="Widget.NoteKeeperApp.AppWidget.InnerView" parent="android:Widget">
+        <item name="android:background">?android:attr/colorBackground</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+    </style>
+
+    <style name="Widget.Theme.NoteKeeperApp.MyView" parent="">
+        <item name="android:background">@color/gray_400</item>
+    </style>
+</resources>
